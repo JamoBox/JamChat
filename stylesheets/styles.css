@@ -770,9 +770,9 @@ dt {
   float: left;
   margin-left: 0px;
 }
-#header nav li.downloads {
+#header nav li.projects {
   float: right;
-  margin-left: 6px;
+  margin-left: 10px;
 }
 #header nav li.title {
   float: right;
